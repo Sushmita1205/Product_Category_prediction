@@ -31,6 +31,8 @@ Naive Bayes Classifiers- https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
 NB: https://www.youtube.com/watch?v=O2L2Uv9pdDA
 
+Source code - https://github.com/Sushmita1205/Product_Category_prediction/blob/main/Product_Category_Prediction.ipynb
+
 
 
 
