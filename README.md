@@ -3,7 +3,7 @@ Hi,
 
 Welcome to this repository! 
 
-**The objective of this project is to build a model to predict the category using description.**
+**The objective of this project is to build a model to predict the product category using description.**
 
 
 
