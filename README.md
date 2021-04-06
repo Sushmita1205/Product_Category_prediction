@@ -32,15 +32,15 @@ Source code - https://github.com/Sushmita1205/Product_Category_prediction/blob/m
 
 
 ## **NOTE:**
-**sometimes when we try to open our ‘.ipnb’ file then we get ‘Sorry, something went wrong. Reload?’**
+### **sometimes when we try to open our ‘.ipnb’ file then we get ‘Sorry, something went wrong. Reload?’**
 
-**Solution For the above problem:-**
+### **Solution For the above problem:-**
 
 i)open this link https://nbviewer.jupyter.org on your browser.
 
-ii) paste this link on the box which will be shown on the nbviewer website page and press Enter .
+ii) paste this link https://github.com/Sushmita1205/Product_Category_prediction/blob/main/Product_Category_Prediction.ipynbon the box which will be shown on the nbviewer website page.
 
-iii) You will be able to see my Github ‘.ipynb’ file .
+iii) Press Enter and You will be able to see my Github ‘.ipynb’ file .
 
 
 
