@@ -31,14 +31,13 @@ NB: https://www.youtube.com/watch?v=O2L2Uv9pdDA
 Source code - https://github.com/Sushmita1205/Product_Category_prediction/blob/main/Product_Category_Prediction.ipynb
 
 
-## **NOTE:**
-### **sometimes when we try to open our ‘.ipnb’ file then we get ‘Sorry, something went wrong. Reload?’**
+## **NOTE: Sometimes when we try to open our ‘.ipnb’ file in github repository then we get ‘Sorry, something went wrong. Reload?’**
 
 ### **Solution For the above problem:-**
 
 i)open this link https://nbviewer.jupyter.org on your browser.
 
-ii) paste this link https://github.com/Sushmita1205/Product_Category_prediction/blob/main/Product_Category_Prediction.ipynbon the box which will be shown on the nbviewer website page.
+ii) paste this link https://github.com/Sushmita1205/Product_Category_prediction/blob/main/Product_Category_Prediction.ipynb  on the box which will be shown on the nbviewer website page.
 
 iii) Press Enter and You will be able to see my Github ‘.ipynb’ file .
 
