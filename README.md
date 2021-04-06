@@ -22,7 +22,7 @@ Only five product category data is considered from the total set.
 
 **References:**
 
-dataset - https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
+Dataset - https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
 
 Naive Bayes Classifiers- https://www.geeksforgeeks.org/naive-bayes-classifiers/
 
@@ -31,7 +31,7 @@ NB: https://www.youtube.com/watch?v=O2L2Uv9pdDA
 Source code - https://github.com/Sushmita1205/Product_Category_prediction/blob/main/Product_Category_Prediction.ipynb
 
 
-## **NOTE: Sometimes when we try to open our ‘.ipnb’ file in github repository then we get ‘Sorry, something went wrong. Reload?’**
+## **NOTE: Sometimes when we try to open our ‘.ipynb’ file in github repository then we get ‘Sorry, something went wrong. Reload?’**
 
 ### **Solution For the above problem:-**
 
