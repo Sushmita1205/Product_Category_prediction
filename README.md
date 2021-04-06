@@ -3,15 +3,15 @@ Hi,
 
 Welcome to this repository! 
 
-**The objective of this project is to build a model to predict the product category using description.**
+**The objective of this project is to built a model to predict the product category using description.**
 
 
 
-**Platform used:** This code in python is developed in Jupyter notebook.
+**Platform Used:** This code in python is developed in Jupyter notebook.
 
 
 
-**Classification algorithm used:** The model is build using Multinomial Naive Bayes classifier.
+**Classification Algorithm Used:** The model is build using Multinomial Naive Bayes classifier.
 
 
 
@@ -33,7 +33,7 @@ Source code - https://github.com/Sushmita1205/Product_Category_prediction/blob/m
 
 ## **NOTE: Sometimes when we try to open our ‘.ipynb’ file in github repository then we get ‘Sorry, something went wrong. Reload?’**
 
-### **Solution For the above problem:-**
+### **Solution For The Above Problem:-**
 
 i)open this link https://nbviewer.jupyter.org on your browser.
 
